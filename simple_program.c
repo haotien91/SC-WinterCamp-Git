@@ -27,6 +27,8 @@ int main(int argc, char **argv) {
                 break;
             case 'p':
                 printf("Pong!\n");
+            case 'j':
+                printf("HANDSOME JERRY\n");
         }
     }
 
